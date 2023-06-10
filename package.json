@@ -7,7 +7,7 @@
         "start": "node index.js"
     },
     "dependencies": {
-"@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
+        "@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
         "@adiwajshing/keyed-db": "^0.2.4",
         "axios": "^0.24.0",
         "chalk": "^4.1.2",
