@@ -1,5 +1,5 @@
 {
-    "name": "AstroMD",
+    "name": "qr",
     "version": "2.1",
     "description": "qr",
     "main": "main.js",
@@ -7,7 +7,7 @@
         "start": "node index.js"
     },
     "dependencies": {
-        "@adiwajshing/baileys": "git+https://github.com/vihangayt0/Baileys.git",
+        "@whiskeysockets/baileys": "git+https://github.com/SamPandey001/baileys",
         "@adiwajshing/keyed-db": "^0.2.4",
         "axios": "^0.24.0",
         "chalk": "^4.1.2",
